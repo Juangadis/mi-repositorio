@@ -1,0 +1,72 @@
+[{
+    "id": 1,
+    "img": "img/Aguita-Bendita.jpg",
+    "nombre": "Aguita Bendita",
+    "categoria": "Light Lager",
+    "alcohol": "4.1%",
+    "precio": 180,
+    "cantidad": "354cc"
+},
+{
+    "id": 2,
+    "img": "img/casimaduro.jpg",
+    "nombre": "Casi Maduro",
+    "categoria": "Imperial Stout",
+    "alcohol": "13.5%",
+    "precio": 430,
+    "cantidad": "473cc"
+},
+{
+    "id": 3,
+    "img": "img/almasmuertas.jpg",
+    "nombre": "Almas Muertas",
+    "categoria": "Imperial Stout",
+    "alcohol": "13.5%",
+    "precio": 400,
+    "cantidad": "354cc"
+},
+{
+    "id": 4,
+    "img": "img/gritosagrado.jpg",
+    "nombre": "Grito Sagrado",
+    "categoria": "NEIPA Argenta",
+    "alcohol": "7%",
+    "precio": 400,
+    "cantidad": "473cc"
+},
+{
+    "id": 5,
+    "img": "img/cassisiusclay.jpg",
+    "nombre": "Cassisius Clay",
+    "categoria": "Sour Ale",
+    "alcohol": "7.5%",
+    "precio": 430,
+    "cantidad": "473cc"
+},
+{
+    "id":6,
+    "img": "img/mundodefelpa.jpg",
+    "nombre": "Mundo de Felpa",
+    "categoria": "NEIPA",
+    "alcohol": "7%",
+    "precio": 530,
+    "cantidad": "473cc"
+},
+{
+    "id": 7,
+    "img": "img/cortadoporfavor.jpg",
+    "nombre": "Cortado, Por Favor",
+    "categoria": "Oatmeal Milk Sout",
+    "alcohol": "6.5%",
+    "precio": 380,
+    "cantidad": "473cc"
+},
+{
+    "id": 8,
+    "img": "img/milconejos.jpg",
+    "nombre": "Mil Conejos",
+    "categoria": "NEIPA",
+    "alcohol": "5.6%",
+    "precio": 440,
+    "cantidad": "473cc"
+}]
